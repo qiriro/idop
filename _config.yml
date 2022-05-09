@@ -1,16 +1,16 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+title: IDOP                       
+description: Infectious Diseases Outbreak Prediction using Geolocation Data with Machine Learning
+author: Kizito NKURIKIYEYEZU, PhD                   
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
+email: kizito@wil-aoyama.jo             # Social icon in footer
+twitter_username: nkuzito           # Social icon in footer
+github_username: qiriro            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
