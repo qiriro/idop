@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
+title: IDOP
+description: Infectious Diseases Outbreak Prediction using Geolocation Data with Machine Learning
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
