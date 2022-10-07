@@ -5,21 +5,19 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: LocationMind
+      href: https://locationmind.com/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: Université Gaston Berger
+      href: https://www.ugb.sn/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
+      The work is being curried out with the financial support of the icipe-World Bank Finacning Agreement No D347-3A for the PASET Regional Scholarship and Innovation Fund
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
+
